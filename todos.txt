@@ -1,0 +1,15 @@
+- current level 1.1 => level 1.2
+
+- add easier level 1.1
+  - background: space, blue stars
+  - enemies: spiders, drones, sweepers, gunships
+  
+- add stage 1.3:
+  - background: space, red stars
+  - enemies: asteroids
+  
+- add stage 1.4:
+  - background: space and ground platforms, red stars
+  - enemies: spiders, drones, sweepers, gunships, turrets
+  
+- add a boss at the end of stage 1.4
